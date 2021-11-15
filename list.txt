@@ -1,0 +1,19 @@
+[Adblock Plus 2.0]
+youtube.com###icon
+youtube.com###play
+youtube.com###hover-overlays > ytd-thumbnail-overlay-toggle-button-renderer.style-scope.ytd-thumbnail:last-child
+youtube.com###hover-overlays > ytd-thumbnail-overlay-toggle-button-renderer.style-scope.ytd-thumbnail:first-child
+youtube.com###hover-overlays > ytd-thumbnail-overlay-toggle-button-renderer.style-scope.ytd-thumbnail:nth-child(2)
+
+! 2021-04-28 https://www.google.com
+www.google.com##.gb_Te
+
+! 2021-04-29 https://www.youtube.com
+www.youtube.com##.size-default.style-suggestive.ytd-video-owner-renderer.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-suggestive.ytd-button-renderer.style-scope
+
+! 2021-04-30 https://www.amazon.in
+www.amazon.in###tell-a-friend > div
+||images-eu.ssl-images-amazon.com/images/G/31/img16/vineet/EMI_FEST_ALL/BOBYes_ILM_640x45._CB655716848_.jpg$image
+
+! 2021-05-02 https://www.youtube.com
+www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
